@@ -1,0 +1,37 @@
+# Mobile
+
+> Python mobile-dev setup shelf. One of several Mobile* repos.
+
+## Purpose
+Give a plain-language door to fitzyracing1/Mobile.
+
+## How it works (plain English)
+1. Keep the original repo as the place for mobile setup files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- Mobile (the named shelf)
+- Python source
+- Family of Mobile* repos
+
+## The actual code
+```
+# source: fitzyracing1/Mobile
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/Mobile”
+
+## Decisions the program makes
+- If a reader wants another Mobile snapshot → Mobile-, Mobile_02, mobile_0
+
+## What a person would notice
+A named wrap on a mobile-setup door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
